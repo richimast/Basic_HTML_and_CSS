@@ -1,0 +1,16 @@
+/* CSS color style comments */
+p {
+	color: yellow;
+	background: DarkGreen;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+}
+
+h1 {
+	text-shadow: 3px 3px black;
+	color: yellow;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+}
